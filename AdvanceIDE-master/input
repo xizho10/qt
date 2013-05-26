@@ -1,0 +1,3 @@
+/tmp/cct9E0Sc.o: In function `main':
+new.c:(.text+0xf): undefined reference to `zprintf'
+collect2: error: ld returned 1 exit status
